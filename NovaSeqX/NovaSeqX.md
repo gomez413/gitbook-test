@@ -1,13 +1,14 @@
-# NovaSeqX
+# NovaSeqX - let's try syncing here
 
 ## Table of Contents
-- [High-Throughput Sequencing Capabilities](#high-throughput-sequencing-capabilities)
-- [XLEAP-SBS Chemistry](#xleap-sbs-chemistry)
-- [Data Output Specifications](#data-output-specifications)
-- [Epigenomics Applications](#epigenomics-applications)
-- [Clinical Genomics Workflows](#clinical-genomics-workflows)
 
-## High-Throughput Sequencing Capabilities
+* [High-Throughput Sequencing Capabilities](NovaSeqX.md#high-throughput-sequencing-capabilities)
+* [XLEAP-SBS Chemistry](NovaSeqX.md#xleap-sbs-chemistry)
+* [Data Output Specifications](NovaSeqX.md#data-output-specifications)
+* [Epigenomics Applications](NovaSeqX.md#epigenomics-applications)
+* [Clinical Genomics Workflows](NovaSeqX.md#clinical-genomics-workflows)
+
+## High-Throughput Sequencing Capabilities - let's try syncing again
 
 The NovaSeqX platform represents next-generation sequencing at unprecedented scale, delivering up to 16 Tb of data per run with 2x150 bp reads across dual flow cells. Ultra-high density patterned flow cells achieve 30+ billion reads per run, enabling cost-effective whole-genome sequencing at 30x coverage for large population cohorts.
 
