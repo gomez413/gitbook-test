@@ -1,4 +1,4 @@
-# MiSeq i100
+# MiSeq i100 - let's try syncing
 
 ## Table of Contents
 - [Genome Assembly Pipeline](#genome-assembly-pipeline)
