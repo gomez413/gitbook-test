@@ -1,13 +1,14 @@
 # MiSeq
 
 ## Table of Contents
-- [Sequencing Chemistry Overview](#sequencing-chemistry-overview)
-- [Library Preparation Methods](#library-preparation-methods)
-- [Base Calling Algorithms](#base-calling-algorithms)
-- [Multiplexing Strategies](#multiplexing-strategies)
-- [Run Performance Optimization](#run-performance-optimization)
 
-## Sequencing Chemistry Overview
+* [Sequencing Chemistry Overview](MiSeq.md#sequencing-chemistry-overview)
+* [Library Preparation Methods](MiSeq.md#library-preparation-methods)
+* [Base Calling Algorithms](MiSeq.md#base-calling-algorithms)
+* [Multiplexing Strategies](MiSeq.md#multiplexing-strategies)
+* [Run Performance Optimization](MiSeq.md#run-performance-optimization)
+
+## Sequencing Chemistry Overview - let's make a change
 
 The MiSeq platform employs sequencing-by-synthesis (SBS) technology utilizing reversible terminator chemistry for accurate base incorporation. Each sequencing cycle involves the addition of fluorescently-labeled nucleotides, imaging of incorporated bases, and enzymatic cleavage of fluorophores and blocking groups to prepare for the next cycle.
 
